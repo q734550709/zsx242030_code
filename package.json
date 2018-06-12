@@ -1,0 +1,22 @@
+{
+  "name": "zsx242030_code",
+  "version": "0.0.1",
+  "description": "zsx'code ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsx242030/zsx242030_code.git"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "zsx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsx242030/zsx242030_code/issues"
+  },
+  "homepage": "https://github.com/zsx242030/zsx242030_code#readme"
+}
